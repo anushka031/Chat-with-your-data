@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlglot
+anthropic
+streamlit
+requests
+pandas
+pytest
+httpx
